@@ -18,6 +18,7 @@ I'm currently running a live paper-trading portfolio on Interactive Brokers usin
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Spicy](https://img.shields.io/badge/-Spicy-D32F2F?style=flat&logo=spicy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0?style=flat&logo=seaborn&logoColor=white)
 <!--
