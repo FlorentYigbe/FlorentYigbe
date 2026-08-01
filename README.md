@@ -18,8 +18,8 @@ I'm currently running a live paper-trading portfolio on Interactive Brokers usin
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-013243?style=flat&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0?style=flat&logo=seaborn&logoColor=white)
 <!--
 **FlorentYigbe/FlorentYigbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
