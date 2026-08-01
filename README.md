@@ -14,6 +14,13 @@ I'm currently running a live paper-trading portfolio on Interactive Brokers usin
 
 ### 🛠️ Tech Stack
 
+![Python](https://shields.io)
+![Jupyter](https://shields.io)
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
+![Matplotlib](https://shields.io)
+![Seaborn](https://shields.io)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
